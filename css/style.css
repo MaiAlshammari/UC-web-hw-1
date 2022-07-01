@@ -1,0 +1,72 @@
+.play1
+{
+    color:black; 
+    width: 25%; 
+    background-color: rgb(214, 229, 237); 
+    text-align:center;
+  
+
+}
+
+  
+.play2
+{
+    direction: rtl;
+    font-size:larger;
+    color:red; 
+    width:25%; 
+    background-color: rgb(214, 229, 237); 
+    text-align:right;
+}
+
+
+.part1{
+    color:red; 
+    background-color:rgb(214,229,237); 
+    width: 50%;
+    text-align:center;
+
+
+
+}
+
+.part2
+{
+    direction: rtl;
+    font-size:b;
+     color:red; 
+     width:50%; 
+     background-color: rgb(214, 229, 237); 
+     text-align:center;
+     /* خط الفقرة مائل وعريض */
+     font-weight: bold; 
+     font-style: italic;
+
+ 
+
+
+
+}
+
+.part3
+{
+    font-size:larger;
+     color:black; 
+     width:50%; 
+     background-color: rgb(214, 229, 237); 
+     text-align:center;
+}
+
+.part4
+{
+    direction:rtl;
+    font-size:larger;
+    color:red; 
+    width:50%; 
+    background-color: rgb(214, 229, 237); 
+    text-align:right;
+    /* Google fonts */
+    font-family: 'Scheherazade New', serif;
+
+}
+
